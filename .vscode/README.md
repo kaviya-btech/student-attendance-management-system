@@ -95,22 +95,22 @@ npx expo start
 ![Dashboard](screenshots/dashboard.png)
 
 ### Add Student
-![Add Student](screenshots/Add student.png)
+![Add Student](screenshots/Addstudent.png)
 
 ### Student List
-![Student List](screenshots/Student List.png)
+![Student List](screenshots/StudentList.png)
 
 ### Attendance Page
-![Attendance](screenshots/Attendance Page.png)
+![Attendance](screenshots/AttendancePage.png)
 
 ### Attendance History
 ![Attendance History](screenshots/Attendance History.png)
 
 ### Generate QR Code
-![Generate QR Code](screenshots/Generate QR Code.png)
+![Generate QR Code](screenshots/GenerateQRCode.png)
 
 ### QR Scanner
-![QR Scanner](screenshots/QR Scanner.png)
+![QR Scanner](screenshots/QRScanner.png)
 
 ---
 
