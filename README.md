@@ -1,50 +1,143 @@
-# Welcome to your Expo app 👋
+# 📚 Student Attendance Management System
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A **Full Stack Mobile Application** developed using **React Native (Expo), Node.js, Express.js, and MySQL** to simplify student attendance management through an easy-to-use mobile interface.
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features
 
-   ```bash
-   npm install
-   ```
+- 🔐 User Authentication
+- 👨‍🎓 Add Student
+- 📋 View Student List
+- ✏️ Edit Student Details
+- 🗑️ Delete Student
+- ✅ Mark Attendance
+- 📅 Attendance History
+- 🔳 QR Code Generation
+- 📷 QR Code Scanner
+- 💾 MySQL Database Integration
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Tech Stack
 
-In the output, you'll find options to open the app in a
+### Frontend
+- React Native
+- Expo
+- JavaScript
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Backend
+- Node.js
+- Express.js
+- REST API
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Database
+- MySQL
 
-## Get a fresh project
+### Tools
+- VS Code
+- Git
+- GitHub
+- Postman
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
+## 📂 Project Structure
+
+```text
+student-attendance-management-system
+│
+├── app
+├── screenshots
+├── package.json
+├── README.md
+└── ...
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 🚀 Installation
 
-To learn more about developing your project with Expo, look at the following resources:
+### Clone the Repository
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+git clone https://github.com/kaviya-btech/student-attendance-management-system.git
+```
 
-## Join the community
+### Install Dependencies
 
-Join our community of developers creating universal apps.
+```bash
+npm install
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### Start the Backend
+
+```bash
+node server.js
+```
+
+### Start the Frontend
+
+```bash
+npx expo start
+```
+
+---
+
+## 📸 Screenshots
+
+### Login Screen
+
+![Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Add Student
+
+![Add Student](screenshots/add-student.png)
+
+### Student List
+
+![Student List](screenshots/student-list.png)
+
+### Attendance Page
+
+![Attendance](screenshots/attendance-page.png)
+
+### Attendance History
+
+![Attendance History](screenshots/attendance-history.png)
+
+### Generate QR Code
+
+![Generate QR Code](screenshots/generate-qr-code.png)
+
+### QR Scanner
+
+![QR Scanner](screenshots/qr-scanner.png)
+
+---
+
+## 🔮 Future Enhancements
+
+- Face Recognition Attendance
+- Push Notifications
+- Attendance Analytics Dashboard
+- Cloud Database Integration
+- Role-Based Access Control
+
+---
+
+## 👩‍💻 Author
+
+**Kaviya M**
+
+- B.Tech Information Technology
+- Aspiring Full Stack Developer
+- Passionate about Mobile App Development
+
+---
+
+⭐ If you like this project, don't forget to **Star** this repository.
